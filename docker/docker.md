@@ -25,3 +25,30 @@ Download and Install docker desktop by [click here.](https://docs.docker.com/get
 | docker compose down | It's stop running containers |
 
 Refer following sample [Dockerfile.](Dockerfile)
+
+#### Project setup
+**Step 1:** <br>
+Navigate to the docker file directory.
+
+**Step 2:** <br>
+Docker build. <br>
+```bash
+docker build -t my-deplyoment-demo .
+```
+
+**Step 3:** <br>
+Run docker <br>
+```bash
+docker run -d -p 8081:8080  my-deplyoment-demo
+```
+
+Run docker compose <br>
+```bash
+docker compose up --build -d
+```
+
+**Step 4:** <br>
+Test the following API
+```
+http://localhost:8081/api/welcome
+```
