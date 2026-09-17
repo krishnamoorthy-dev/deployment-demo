@@ -67,7 +67,7 @@ podman run -d -p 8081:8080 my-deplyoment-demo
 Run docker compose.
 
 ```bash
-docker compose up --build -d
+podman compose up -d
 ```
 
 ### Step 4
