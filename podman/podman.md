@@ -1,4 +1,4 @@
-# Docker Deployment Demo
+# Podman Deployment Demo
 
 ## Table of Contents
 
