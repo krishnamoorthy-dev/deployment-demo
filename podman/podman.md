@@ -12,7 +12,7 @@
 
 Podman is a platform to run a application in isolated environment called container.
 
-Download and Install Podman Desktop by [click here](https://docs.docker.com/get-started/get-docker/).
+Download and Install Podman Desktop by [click here](https://podman-desktop.io/downloads).
 
 ### Note
 
