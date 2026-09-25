@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Podman](#docker)
-* [Podman Important Commands](#docker-important-commands)
+* [Podman](#podman)
+* [Podman Important Commands](#podman-important-commands)
 * [Project Setup](#project-setup)
 
 ---
