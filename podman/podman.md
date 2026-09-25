@@ -58,7 +58,7 @@ podman build -t my-deplyoment-demo .
 
 ### Step 3
 
-Run docker.
+Run podman.
 
 ```bash
 podman run -d -p 8081:8080 my-deplyoment-demo
